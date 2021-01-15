@@ -1,2 +1,6 @@
 # Character-Guide
-A Basic Character Guide for Game of Thrones using prolog 
+A Basic Character Guide for Game of Thrones using prolog. Basically, I hardcoded character profiles and relationships, then developed rules that furthered the categories these characteries could be divided into. I have a main function that serves as a driver function, laying out a basic menu to divide characters based on the presented subjects. Originally, I wanted to use a webpage to present this information, but I had issues formatting queries from the html page to my prolog program. 
+
+There are 3 files provided: a driver file (driver.pl), a knowledge base (guide.pl), and these two combined (main.pl). When creating these files, I watched many online tutorials and articles to learn more about prolog and how to use driver programs in prolog. One guide that really helped me out was: https://cse.sc.edu/~ahein/330/example.html which gives a simple example of a prolog program and a corresponding driver program. It teaches you how to terminate a prolog program, transfer files, etc. 
+
+I know this is a very simple project, but I had a lot of fun looking through tutorials and learning how to go through this while also applying to an interesting TV show (if you ignore the last season). Thanks for taking a peak! 
